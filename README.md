@@ -38,3 +38,6 @@ In COMP220 we learned about Collision Detection and Response in OpenGL and how t
 
 ## Week Thirteen
 In COMP220 we had Vivas, we also had vivas forCOMP210
+
+## Summary of my Experience
+My experience on this course so far has been pretty good i am still hoping that after this i will go onto to get a job in industry in america, the five skills i have chosen were home sickness, research, essay writing, team work and communication. in this report i will gointo detail on how these skills have helped me and how i have improved upon them throughout the length of the course.
