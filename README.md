@@ -1,43 +1,43 @@
 # Weekly Reports
 
 ## Week One
-In COPM220 we learned about the graphics pipeline and about OpenGL, In COMP210we had an intorduction to Human-Computer Interaction and went through assignment briefs.
+In COMP250 we were introduced to the module and learned about what AI is, In COMP260 we were also introduced to the module and learned about MUDs.
 
 ## Week Two
-In COMP220 we started to learn about coding shaders in OpenGL and how they work, in COMP210 we learnedabout data collection for evaluation on interfaces.
+In the second week we learned about finite state machines and behaviour trees, we also learned about internet protocols and socket programming in COMP260.
 
 ## Week Three
+In week 3 we learned about Game theory and planning in COMP250, we also learned about networking and concurrency in COMP260.
 
-In COMP220 we learned about the mathematical sid eof graphics and simulations, in COMP210 we reviewed somevideos using the Heuristic analysis
 ## Week Four
-In COMP220 we learned about vertex buffers and how they work, In COMP210 we learned more about data analysisandthe visulaisation of data
+In week 4 we learned about Procedural Content Generation in COMP250, we also learned about concurrency in clients in COMP260.
 
 ## Week Five
-In COMP220 we learned about rendering meshes in OpenGL and how meshes work,In COMP210 we had an interface peer review
+In week 5 we leaned about game tree searches such as Monte Carlo tree search, we had a Peer review for the distributed proccessing task in COMP260.
 
 ## Week Six
-This was a supervised studio practice week so there were no lessons, we just worked with our teams on the game project
+In week 6 there was only studio practice where i was working on the team game.
 
 ## Week Seven
-In COMP220 we learned about Lighting in OpenGL and how it works,In COMP210 we learned about AR/VR Technologies
+In week 7 we had a game component peer review for COMP250, we had a viva for the distributed proccessing task in COMP260.
 
 ## Week Eight
-In COMP220 we learned about Rigging and Skeletal Animation in OpenGL and how they work, In COMP210 we learned about the psychology and design for AR/VR systems
+In week 8 we learned about AI and society and an intoduction to MicroRTS Bot in COMP250, we also learned about games as a service persistent data in COMP260.
 
 ## Week Nine
-In COMP220 we learned about Post-processing Techniques in OpenGL and how they work, In COMP210 we learned about ImplementingAR/VR
+In week 9 we leaned about navigation such as pathfinding in COMP250, we also learned about Games as a Service: User Accounts in COMP260.
 
 ## Week Ten
-In COMP220 we learned about Simulating Physics in OpenGL and how they work, In COMP210 we leaned more about implementing AR/VR
+In week 10 we leaned about Evolutionary Algorithms such as PCG in COMP250, we also learned about Games as a Service: Packet management in COMP260.
 
 ## Week Eleven
-In COMP220 we learned about Newtonian Mechanics in OpenGL and how they work,In COMP210 we had an AR/VR peer review
+In week 11 we leaned about Machine Learning and talked about Skynet and how it could destroy civilisation in COMP250, we also learned about Games as a Service: data encryption  in COMP260.
 
 ## Week Twelve
-In COMP220 we learned about Collision Detection and Response in OpenGL and how they work
+In week 12 we had a peer review for MicroRTS Bots in COMP250, we had a peer review for the MUD client-server peer review in COMP260.
 
 ## Week Thirteen
-In COMP220 we had Vivas, we also had vivas forCOMP210
+This week we had vivas for COMP205 and COMP260.
 
 ## Summary of my Experience
 My experience on this course so far has been pretty good i am still hoping that after this i will go onto to get a job in industry in america, the five skills i have chosen were home sickness, research, essay writing, team work and communication. in this report i will gointo detail on how these skills have helped me and how i have improved upon them throughout the length of the course.
